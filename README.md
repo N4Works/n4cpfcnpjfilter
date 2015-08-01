@@ -1,6 +1,6 @@
 # n4CpfCnpjFilter
-[![Build Status](https://secure.travis-ci.org/N4Works/n4CpfCnpjFilter.png?branch=master)](https://travis-ci.org/N4Works/n4CpfCnpjFilter)
-[![Coverage Status](https://coveralls.io/repos/N4Works/n4CpfCnpjFilter/badge.svg?branch=master)](https://coveralls.io/r/N4Works/n4CpfCnpjFilter/?branch=master)
+[![Build Status](https://travis-ci.org/N4Works/n4cpfcnpj.svg?branch=master)](https://travis-ci.org/N4Works/n4cpfcnpj)
+[![Coverage Status](https://coveralls.io/repos/N4Works/n4cpfcnpj/badge.svg?branch=master&service=github)](https://coveralls.io/github/N4Works/n4cpfcnpj?branch=master)
 
 # about
 
