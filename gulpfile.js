@@ -7,7 +7,7 @@ var rename = require('gulp-rename');
 var karma = require('karma').server;
 
 var _coverage = 'coverage/**/lcov.info';
-var _app = 'n4CpfCnpjFilter.js';
+var _app = 'src/n4CpfCnpjFilter.js';
 var _appMin = 'n4CpfCnpjFilter.min.js';
 var _dist = 'dist';
 
