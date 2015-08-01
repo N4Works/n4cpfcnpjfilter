@@ -32,5 +32,6 @@ describe('CpfCnpjFilter', function()
     {
         expect(_cpfCnpjFilter('11111111')).toEqual('');
     });
+
   });
 });
