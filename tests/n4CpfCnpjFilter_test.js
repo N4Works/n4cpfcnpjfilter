@@ -1,6 +1,6 @@
 "use strict";
 
-describe('CpfCnpjFilter', function()
+describe('n4CpfCnpjFilter', function()
 {
   var _cpfCnpjFilter;
 
