@@ -1,6 +1,6 @@
 {
   "name": "n4cpfcnpjfilter",
-  "main": "n4cpfcnpjfilter.js",
+  "main": "dist/n4cpfcnpjfilter.js",
   "version": "0.0.1",
   "homepage": "https://github.com//n4cpfcnpjfilter",
   "authors": ["N4Works <contato@n4works.com>"],
